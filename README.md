@@ -1,5 +1,8 @@
 # vue-NexusTechneo
 
+<h3>Nexus Techneo (using Vue JS with Router)</h3>
+<a href="https://vik-kalsi.github.io/vue-NexusTechneo/">Click here to access the Rock Paper Scissors App</a>
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
